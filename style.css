@@ -1,0 +1,27 @@
+.hoes{
+font-size: 23px;
+width:100%;
+box-shadow: 5px 5px 5px black ;
+margin: 0px;
+};
+
+.stonks_for_the_win{
+font-size: 10px;
+color: rgb(238, 255, 4);
+};
+
+.copy_right_footer {
+position: fixed;
+color: whitesmoke;
+bottom: 0;
+width: 100%;
+background-color: yellow;
+line-height: 3;
+text-align: center;
+};
+ 
+canvas{
+border:5px solid whitesmoke;
+border-radius: 20px;
+box-shadow: 5px 5px 5px yellow
+};
